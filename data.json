@@ -1,0 +1,158 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "image": "/courses/e1.jpg",
+      "level": "المستوى A1-A2",
+      "title": "مبتدئ",
+      "category": "beginner",
+      "description": "أساسيات المحادثة والقواعد من الصفر.",
+      "duration": "3 شهور",
+      "sessions": "24 حصة",
+      "schedule": "3 حصص بالأسبوع",
+      "price": "50$",
+      "learn": [
+        "التعريف بالنفس والمحادثة اليومية",
+        "القواعد الأساسية",
+        "مفردات الحياة اليومية",
+        "القراءة والكتابة البسيطة"
+      ]
+    },
+    {
+      "id": 2,
+      "image": "/courses/e2.jpg",
+      "level": "المستوى B1-B2",
+      "title": "متوسط",
+      "category": "intermediate",
+      "description": "طلاقة أكثر في الكلام والكتابة.",
+      "duration": "3 شهور",
+      "sessions": "24 حصة",
+      "schedule": "3 حصص بالأسبوع",
+      "price": "60$",
+      "learn": [
+        "محادثات أطول",
+        "قواعد متوسطة",
+        "كتابة فقرات"
+      ]
+    },
+    {
+      "id": 3,
+      "image": "/courses/e3.jpg",
+      "level": "المستوى C1",
+      "title": "متقدم",
+      "category": "advanced",
+      "description": "إتقان اللغة للدراسة والعمل.",
+      "duration": "3 شهور",
+      "sessions": "24 حصة",
+      "schedule": "3 حصص بالأسبوع",
+      "price": "70$",
+      "learn": [
+        "نقاش وعرض أفكار",
+        "قراءة نصوص متقدمة",
+        "كتابة رسمية"
+      ]
+    },
+    {
+      "id": 4,
+      "image": "/courses/e4.jpg",
+      "level": "تحضير للامتحان",
+      "title": "ielts",
+      "category": "ielts",
+      "description": "خطة مكثفة للوصول للدرجة المطلوبة.",
+      "duration": "شهرين",
+      "sessions": "16 حصة",
+      "schedule": "4 حصص بالأسبوع",
+      "price": "90$",
+      "learn": [
+        "أقسام الامتحان الأربعة",
+        "حل نماذج",
+        "استراتيجيات الوقت"
+      ]
+    },
+    {
+      "id": 5,
+      "image": "/courses/e6.jpg",
+      "level": "كل المستويات",
+      "title": "محادثة",
+      "category": "conversation",
+      "description": "تدرّب على الكلام بصفوف صغيرة.",
+      "duration": "شهر",
+      "sessions": "12 حصة",
+      "schedule": "3 حصص بالأسبوع",
+      "price": "40$",
+      "learn": [
+        "الطلاقة بالكلام",
+        "النطق",
+        "الثقة بالمحادثة"
+      ]
+    },
+    {
+      "id": 6,
+      "image": "/courses/e5.jpg",
+      "level": "للأطفال",
+      "title": "إنجليزي للأطفال",
+      "category": ["kids", "beginner"],
+      "description": "تعلّم ممتع بالألعاب والقصص.",
+      "duration": "3 شهور",
+      "sessions": "24 حصة",
+      "schedule": "3 حصص بالأسبوع",
+      "price": "45$",
+      "learn": [
+        "مفردات بالألعاب",
+        "القصص",
+        "النطق الصحيح"
+      ]
+    }
+  ],
+
+ "whyUs": [
+  {
+    "id": 1,
+    "icon": "GraduationCap",
+    "title": "مدرّسون متخصصون",
+    "description": "فريق بخبرة بتدريس الإنجليزية لكل الأعمار والمستويات."
+  },
+  {
+    "id": 2,
+    "icon": "Users",
+    "title": "صفوف صغيرة",
+    "description": "عدد محدود بكل صف حتى ياخد كل طالب وقته بالكلام."
+  },
+  {
+    "id": 3,
+    "icon": "Clock",
+    "title": "مواعيد مرنة",
+    "description": "دوام صباحي ومسائي بيناسب الطلاب والموظفين."
+  },
+  {
+    "id": 4,
+    "icon": "Award",
+    "title": "متابعة وشهادة",
+    "description": "اختبارات دورية وشهادة إتمام بنهاية كل مستوى."
+  }
+],
+
+"stats": [
+  { "id": 1, "value": "2500", "label": "طالب وطالبة" },
+  { "id": 2, "value": "5", "label": "سنوات خبرة" },
+  { "id": 3, "value": "55", "label": "مدرّس ومدرّسة" }
+]
+
+
+, 
+
+"institute": {
+  "description": "معهد Lumen لتعليم اللغة الإنجليزية: مدرّسون متخصصون، وصفوف صغيرة، وكورسات لكل المستويات من المبتدئ حتى IELTS.",
+  "address": "الرمال الجنوبي - الأزهر",
+  "phone": "00972593231515",
+  "email": "mohammedzaanain@gmail.com",
+  "hours": "السبت - الخميس: 8 صباحاً حتى 4 عصراً",
+  "social": [
+    { "id": 1, "name": "واتساب", "url": "https://wa.me/972593231515" },
+    { "id": 2, "name": "إنستغرام", "url": "https://www.instagram.com/mo_zaneen/" }
+    
+  ] , 
+   "mapUrl": "https://www.google.com/maps?q=31.5124433,34.4294057&z=17&output=embed"
+ 
+}
+}
